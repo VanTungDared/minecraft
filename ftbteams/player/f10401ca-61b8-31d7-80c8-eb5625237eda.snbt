@@ -1,0 +1,17 @@
+{
+	id: "f10401ca-61b8-31d7-80c8-eb5625237eda"
+	type: "player"
+	player_name: "Tung"
+	ranks: {
+		f10401ca-61b8-31d7-80c8-eb5625237eda: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tung"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

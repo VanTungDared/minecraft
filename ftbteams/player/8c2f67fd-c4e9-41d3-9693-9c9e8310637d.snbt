@@ -1,0 +1,17 @@
+{
+	id: "8c2f67fd-c4e9-41d3-9693-9c9e8310637d"
+	type: "player"
+	player_name: "ThaiHoang2409"
+	ranks: {
+		8c2f67fd-c4e9-41d3-9693-9c9e8310637d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ThaiHoang2409"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59A1FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
