@@ -17,6 +17,13 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-07-24 19:56:36 +0700",
+      "1": "2025-07-24 19:56:36 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
@@ -25,6 +32,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "honey_glazed_ham": "2025-07-24 23:16:31 +0700",
       "chicken_soup": "2025-07-24 13:51:32 +0700"
     },
     "done": false
@@ -32,7 +40,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "kelp": "2025-07-22 20:27:03 +0700",
-      "sugar_cane": "2025-07-23 22:55:51 +0700"
+      "sugar_cane": "2025-07-23 22:55:51 +0700",
+      "nether_wart": "2025-07-24 22:55:28 +0700"
     },
     "done": false
   },
@@ -69,6 +78,12 @@
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2025-07-24 13:46:17 +0700"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/speed_force": {
+    "criteria": {
+      "speed_force": "2025-07-24 21:49:07 +0700"
     },
     "done": true
   },
@@ -132,9 +147,21 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/amphibious_hands": {
+    "criteria": {
+      "amphibious_hands": "2025-07-24 22:49:12 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-24 21:25:33 +0700"
     },
     "done": true
   },
@@ -174,6 +201,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-24 20:30:33 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
@@ -183,6 +216,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-07-21 15:34:13 +0700"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2025-07-24 20:05:05 +0700"
     },
     "done": true
   },
@@ -216,6 +255,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2025-07-24 20:29:52 +0700"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
@@ -243,6 +288,12 @@
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-07-24 13:46:24 +0700"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-07-24 23:28:28 +0700"
     },
     "done": true
   },
@@ -318,6 +369,12 @@
     },
     "done": true
   },
+  "cold_sweat:recipes/hoglin_armor": {
+    "criteria": {
+      "has_item": "2025-07-24 23:49:01 +0700"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-07-24 13:46:17 +0700"
@@ -387,6 +444,18 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-07-24 19:56:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-24 22:49:56 +0700"
     },
     "done": true
   },
@@ -488,25 +557,41 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-07-24 22:46:04 +0700",
       "shrubland": "2025-07-21 15:42:48 +0700",
       "rocky_shrubland": "2025-07-24 13:47:22 +0700",
+      "scrubland": "2025-07-24 23:09:44 +0700",
+      "lush_savanna": "2025-07-24 22:38:27 +0700",
+      "highland": "2025-07-25 00:00:00 +0700",
+      "bamboo_grove": "2025-07-24 20:48:12 +0700",
       "clover_patch": "2025-07-21 22:26:51 +0700",
+      "wetland": "2025-07-24 20:47:08 +0700",
+      "cold_desert": "2025-07-24 23:59:02 +0700",
+      "wooded_wasteland": "2025-07-24 22:46:49 +0700",
       "field": "2025-07-21 22:32:50 +0700",
       "orchard": "2025-07-22 23:05:56 +0700",
+      "mediterranean_forest": "2025-07-24 22:48:39 +0700",
+      "bog": "2025-07-24 20:46:59 +0700",
       "coniferous_forest": "2025-07-21 15:57:52 +0700",
       "forested_field": "2025-07-22 15:43:51 +0700",
+      "dryland": "2025-07-24 22:42:17 +0700",
+      "wasteland": "2025-07-24 22:48:21 +0700",
+      "boreal_forest": "2025-07-24 22:12:40 +0700",
+      "redwood_forest": "2025-07-24 23:51:11 +0700",
       "cherry_blossom_grove": "2025-07-21 22:45:46 +0700",
       "dune_beach": "2025-07-22 15:00:57 +0700",
       "seasonal_forest": "2025-07-21 22:47:34 +0700",
       "volcano": "2025-07-24 14:42:05 +0700",
       "pasture": "2025-07-22 15:01:02 +0700",
+      "rocky_rainforest": "2025-07-24 22:41:33 +0700",
       "volcanic_plains": "2025-07-24 14:33:04 +0700",
       "lavender_field": "2025-07-21 15:33:06 +0700",
       "fir_clearing": "2025-07-21 15:33:45 +0700",
       "pumpkin_patch": "2025-07-21 21:16:19 +0700",
       "grassland": "2025-07-22 15:00:23 +0700",
       "prairie": "2025-07-22 15:02:09 +0700",
-      "glowing_grotto": "2025-07-24 14:41:48 +0700"
+      "glowing_grotto": "2025-07-24 14:41:48 +0700",
+      "rainforest": "2025-07-24 22:45:39 +0700"
     },
     "done": false
   },
@@ -526,14 +611,19 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-23 15:24:24 +0700",
       "minecraft:taiga": "2025-07-22 11:24:25 +0700",
+      "minecraft:sunflower_plains": "2025-07-24 22:16:32 +0700",
+      "minecraft:wooded_badlands": "2025-07-24 22:44:34 +0700",
       "minecraft:beach": "2025-07-21 15:40:16 +0700",
       "minecraft:dark_forest": "2025-07-23 15:24:19 +0700",
       "minecraft:river": "2025-07-21 15:34:11 +0700",
       "minecraft:stony_shore": "2025-07-23 15:18:31 +0700",
       "minecraft:cold_ocean": "2025-07-22 20:21:04 +0700",
       "minecraft:forest": "2025-07-22 11:31:17 +0700",
+      "minecraft:desert": "2025-07-24 22:48:10 +0700",
       "minecraft:ocean": "2025-07-22 20:38:52 +0700",
-      "minecraft:old_growth_birch_forest": "2025-07-23 15:05:38 +0700"
+      "minecraft:old_growth_birch_forest": "2025-07-23 15:05:38 +0700",
+      "minecraft:meadow": "2025-07-24 20:52:51 +0700",
+      "minecraft:plains": "2025-07-24 22:12:22 +0700"
     },
     "done": false
   },
@@ -621,6 +711,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-07-24 20:30:33 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
@@ -636,6 +732,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-21 15:43:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-07-24 22:55:28 +0700"
     },
     "done": true
   },
@@ -656,6 +758,18 @@
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
     },
     "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2025-07-24 20:05:05 +0700"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-07-24 20:30:33 +0700"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -705,6 +819,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-24 21:32:26 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-07-22 16:41:22 +0700"
@@ -735,6 +855,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-07-24 20:30:33 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
@@ -759,6 +885,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-07-24 20:30:33 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
@@ -774,6 +906,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-07-24 13:46:17 +0700"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-07-24 20:30:33 +0700"
     },
     "done": true
   },
