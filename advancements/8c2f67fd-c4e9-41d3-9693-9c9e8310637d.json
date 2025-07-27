@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "cold_sweat:recipes/soulspring_lamp": {
+    "criteria": {
+      "has_recipe": "2025-07-27 20:17:59 +0700"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-07-26 15:49:29 +0700"
@@ -787,6 +793,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-07-27 21:28:12 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2025-07-21 15:33:41 +0700"
@@ -967,6 +979,12 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-07-27 21:45:23 +0700"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/mb_arcfurnace": {
     "criteria": {
       "form_multiblock": "2025-07-27 14:58:01 +0700"
@@ -1057,6 +1075,7 @@
       "minecraft:cold_ocean": "2025-07-22 16:42:34 +0700",
       "minecraft:forest": "2025-07-22 16:16:25 +0700",
       "minecraft:desert": "2025-07-24 23:11:31 +0700",
+      "minecraft:ocean": "2025-07-27 21:29:28 +0700",
       "minecraft:warm_ocean": "2025-07-26 14:55:11 +0700",
       "minecraft:old_growth_birch_forest": "2025-07-24 00:00:28 +0700",
       "minecraft:meadow": "2025-07-26 23:28:49 +0700",
