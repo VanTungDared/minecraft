@@ -174,6 +174,12 @@
     },
     "done": true
   },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2025-07-27 22:31:03 +0700"
+    },
+    "done": true
+  },
   "immersiveengineering:main/mb_cokeoven": {
     "criteria": {
       "form_multiblock": "2025-07-24 21:10:52 +0700"
@@ -195,6 +201,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-07-23 15:10:50 +0700",
+      "potato": "2025-07-27 23:12:45 +0700",
       "golden_apple": "2025-07-21 23:41:47 +0700",
       "carrot": "2025-07-21 22:19:54 +0700"
     },
@@ -675,6 +682,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "vegetable_soup": "2025-07-21 22:22:06 +0700",
+      "shepherds_pie": "2025-07-27 22:59:04 +0700",
       "honey_glazed_ham": "2025-07-21 20:27:50 +0700",
       "ratatouille": "2025-07-24 16:03:09 +0700",
       "chicken_soup": "2025-07-21 21:12:41 +0700",
@@ -799,6 +807,12 @@
     },
     "done": true
   },
+  "refinedstorage:monitoring": {
+    "criteria": {
+      "crafting_monitor_in_inventory": "2025-07-27 22:32:22 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2025-07-21 15:33:41 +0700"
@@ -856,6 +870,18 @@
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-21 15:33:41 +0700"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-07-27 22:43:12 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_refinery": {
+    "criteria": {
+      "form_multiblock": "2025-07-28 21:03:14 +0700"
     },
     "done": true
   },
@@ -1138,6 +1164,12 @@
     },
     "done": true
   },
+  "refinedstorage:importing": {
+    "criteria": {
+      "importer_in_inventory": "2025-07-28 20:53:35 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-21 15:33:41 +0700"
@@ -1201,6 +1233,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "diamond_knife": "2025-07-26 16:01:52 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:wireless_monitoring": {
+    "criteria": {
+      "wireless_crafting_monitor_in_inventory": "2025-07-27 22:32:51 +0700"
     },
     "done": true
   },
@@ -1298,6 +1336,12 @@
   "crossbowverhaul:recipes/combat/bolt_iron": {
     "criteria": {
       "has_feather": "2025-07-21 15:35:45 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_fermenter": {
+    "criteria": {
+      "form_multiblock": "2025-07-28 21:11:34 +0700"
     },
     "done": true
   },
