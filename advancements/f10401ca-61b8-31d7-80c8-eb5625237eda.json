@@ -38,6 +38,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "vegetable_soup": "2025-07-29 16:49:28 +0700",
       "shepherds_pie": "2025-07-28 22:00:28 +0700",
       "honey_glazed_ham": "2025-07-24 23:16:31 +0700",
       "pasta_with_meatballs": "2025-07-28 22:29:45 +0700",
@@ -318,6 +319,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-29 16:53:49 +0700",
       "chicken": "2025-07-28 20:59:34 +0700",
       "cooked_mutton": "2025-07-28 21:15:42 +0700",
       "chorus_fruit": "2025-07-28 21:19:50 +0700",
@@ -622,6 +624,12 @@
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "has_recipe": "2025-07-24 13:46:17 +0700"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-29 16:46:27 +0700"
     },
     "done": true
   },
