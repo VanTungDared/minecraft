@@ -116,9 +116,10 @@
   },
   "cold_sweat:use_hearth": {
     "criteria": {
-      "placed_hearth": "2025-07-24 22:20:54 +0700"
+      "placed_hearth": "2025-07-24 22:20:54 +0700",
+      "has_insulation": "2025-07-29 20:49:13 +0700"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_yellow": {
     "criteria": {
@@ -688,6 +689,7 @@
       "chicken_soup": "2025-07-21 21:12:41 +0700",
       "fish_stew": "2025-07-21 20:40:48 +0700",
       "stuffed_pumpkin": "2025-07-21 21:44:21 +0700",
+      "beef_stew": "2025-07-29 21:17:49 +0700",
       "roast_chicken": "2025-07-23 00:02:25 +0700",
       "fried_rice": "2025-07-21 19:59:38 +0700"
     },
@@ -870,6 +872,12 @@
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-21 15:33:41 +0700"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-07-29 20:42:55 +0700"
     },
     "done": true
   },
