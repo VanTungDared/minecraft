@@ -199,6 +199,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/ice_cube": {
+    "criteria": {
+      "ice_cube": "2025-07-29 22:49:46 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
@@ -301,6 +307,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-07-29 23:11:10 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-07-24 13:46:17 +0700"
@@ -332,7 +344,9 @@
       "cooked_mutton": "2025-07-28 21:15:42 +0700",
       "chorus_fruit": "2025-07-28 21:19:50 +0700",
       "baked_potato": "2025-07-28 21:08:29 +0700",
+      "beef": "2025-07-29 22:50:41 +0700",
       "porkchop": "2025-07-28 23:37:49 +0700",
+      "beetroot_soup": "2025-07-29 22:47:30 +0700",
       "apple": "2025-07-28 21:24:20 +0700",
       "spider_eye": "2025-07-28 22:37:24 +0700",
       "potato": "2025-07-28 22:29:04 +0700",
@@ -491,6 +505,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-07-24 13:46:17 +0700"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-07-29 23:22:33 +0700"
     },
     "done": true
   },
@@ -724,6 +744,7 @@
       "pumpkin_patch": "2025-07-21 21:16:19 +0700",
       "grassland": "2025-07-22 15:00:23 +0700",
       "prairie": "2025-07-22 15:02:09 +0700",
+      "tundra": "2025-07-29 22:31:52 +0700",
       "glowing_grotto": "2025-07-24 14:41:48 +0700",
       "rainforest": "2025-07-24 22:45:39 +0700",
       "crag": "2025-07-26 22:01:02 +0700",
@@ -738,6 +759,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-29 22:32:24 +0700"
+    },
+    "done": true
+  },
   "nameless_trinkets:obtain/experience_magnet": {
     "criteria": {
       "experience_magnet": "2025-07-21 23:17:51 +0700"
@@ -749,11 +776,15 @@
       "minecraft:snowy_slopes": "2025-07-26 22:05:01 +0700",
       "minecraft:old_growth_pine_taiga": "2025-07-23 15:24:24 +0700",
       "minecraft:taiga": "2025-07-22 11:24:25 +0700",
+      "minecraft:eroded_badlands": "2025-07-29 23:23:52 +0700",
       "minecraft:sunflower_plains": "2025-07-24 22:16:32 +0700",
       "minecraft:windswept_hills": "2025-07-26 10:54:46 +0700",
       "minecraft:wooded_badlands": "2025-07-24 22:44:34 +0700",
+      "minecraft:bamboo_jungle": "2025-07-29 23:14:27 +0700",
+      "minecraft:badlands": "2025-07-29 23:21:31 +0700",
       "minecraft:beach": "2025-07-21 15:40:16 +0700",
       "minecraft:dark_forest": "2025-07-23 15:24:19 +0700",
+      "minecraft:sparse_jungle": "2025-07-29 23:08:46 +0700",
       "minecraft:river": "2025-07-21 15:34:11 +0700",
       "minecraft:lukewarm_ocean": "2025-07-27 11:59:25 +0700",
       "minecraft:stony_shore": "2025-07-23 15:18:31 +0700",
@@ -766,8 +797,10 @@
       "minecraft:frozen_ocean": "2025-07-26 23:35:16 +0700",
       "minecraft:desert": "2025-07-24 22:48:10 +0700",
       "minecraft:ocean": "2025-07-22 20:38:52 +0700",
+      "minecraft:jungle": "2025-07-29 23:07:25 +0700",
       "minecraft:snowy_beach": "2025-07-26 23:37:58 +0700",
       "minecraft:warm_ocean": "2025-07-26 16:34:09 +0700",
+      "minecraft:deep_lukewarm_ocean": "2025-07-29 23:55:31 +0700",
       "minecraft:flower_forest": "2025-07-28 21:51:54 +0700",
       "minecraft:old_growth_birch_forest": "2025-07-23 15:05:38 +0700",
       "minecraft:meadow": "2025-07-24 20:52:51 +0700",
@@ -1003,6 +1036,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-24 21:32:26 +0700"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/callus": {
+    "criteria": {
+      "callus": "2025-07-29 22:13:04 +0700"
     },
     "done": true
   },
